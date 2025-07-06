@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
-import mainImage from "../assets/images/payroll-3.png";
+import mainImage from "../assets/images/Payroll-3.png";
 
 export default function PayrollManagement() {
   const fullText = "Accurate Payroll. Seamless Compliance. Total Peace of Mind.";
